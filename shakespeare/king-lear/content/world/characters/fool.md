@@ -1,0 +1,9 @@
+---
+id: fool
+name: Fool
+role: supporting
+status: active
+---
+
+## Description
+<!-- Character in *King Lear* (Shakespeare, via Project Gutenberg). -->

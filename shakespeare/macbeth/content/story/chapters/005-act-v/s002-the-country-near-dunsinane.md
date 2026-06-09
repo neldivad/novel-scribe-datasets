@@ -1,0 +1,19 @@
+---
+scene_id: macbeth-a5-s2
+title: "The Country near Dunsinane"
+chapter: act-v
+characters_present: [menteith, angus, caithness, lennox]
+---
+
+## Scene
+
+**Menteith:** The English power is near, led on by Malcolm, His uncle Siward, and the good Macduff. Revenges burn in them; for their dear causes Would to the bleeding and the grim alarm Excite the mortified man.
+**Angus:** Near Birnam wood Shall we well meet them. That way are they coming.
+**Caithness:** Who knows if Donalbain be with his brother?
+**Lennox:** For certain, sir, he is not. I have a file Of all the gentry: there is Siward’s son And many unrough youths, that even now Protest their first of manhood.
+**Menteith:** What does the tyrant?
+**Caithness:** Great Dunsinane he strongly fortifies. Some say he’s mad; others, that lesser hate him, Do call it valiant fury: but, for certain, He cannot buckle his distemper’d cause Within the belt of rule.
+**Angus:** Now does he feel His secret murders sticking on his hands; Now minutely revolts upbraid his faith-breach; Those he commands move only in command, Nothing in love: now does he feel his title Hang loose about him, like a giant’s robe Upon a dwarfish thief.
+**Menteith:** Who, then, shall blame His pester’d senses to recoil and start, When all that is within him does condemn Itself for being there?
+**Caithness:** Well, march we on, To give obedience where ’tis truly ow’d: Meet we the med’cine of the sickly weal; And with him pour we, in our country’s purge, Each drop of us.
+**Lennox:** Or so much as it needs To dew the sovereign flower, and drown the weeds. Make we our march towards Birnam.

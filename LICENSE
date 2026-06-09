@@ -1,0 +1,23 @@
+CC0 1.0 Universal — Public Domain Dedication
+
+The original content in this repository (notably `office-drama/`) is dedicated to
+the public domain under Creative Commons CC0 1.0. To the extent possible under
+law, the authors have waived all copyright and related rights. You may copy,
+modify, distribute, and use the work, including for commercial purposes, all
+without asking permission.
+
+Full text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+Summary:   https://creativecommons.org/publicdomain/zero/1.0/
+
+SPDX-License-Identifier: CC0-1.0
+
+---
+
+Third-party / public-domain content:
+
+`shakespeare/` is derived from Project Gutenberg editions of William Shakespeare's
+plays, which are in the public domain. The Project Gutenberg license header and
+footer have been removed during transformation; only the public-domain play text
+remains. "Project Gutenberg" is a trademark of the Project Gutenberg Literary
+Archive Foundation and is referenced here for provenance only, not as an
+endorsement. See https://www.gutenberg.org for the source editions.

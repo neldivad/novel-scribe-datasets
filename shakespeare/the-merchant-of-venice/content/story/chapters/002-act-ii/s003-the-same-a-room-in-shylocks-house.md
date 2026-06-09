@@ -1,0 +1,12 @@
+---
+scene_id: the-merchant-of-venice-a2-s3
+title: "The same. A room in Shylock’s house"
+chapter: act-ii
+characters_present: [jessica, launcelet]
+---
+
+## Scene
+
+**Jessica:** I am sorry thou wilt leave my father so. Our house is hell, and thou, a merry devil, Didst rob it of some taste of tediousness. But fare thee well, there is a ducat for thee, And, Launcelet, soon at supper shalt thou see Lorenzo, who is thy new master’s guest. Give him this letter, do it secretly. And so farewell. I would not have my father See me in talk with thee.
+**Launcelet:** Adieu! tears exhibit my tongue, most beautiful pagan, most sweet Jew! If a Christian do not play the knave and get thee, I am much deceived. But, adieu! These foolish drops do something drown my manly spirit. Adieu!
+**Jessica:** Farewell, good Launcelet.

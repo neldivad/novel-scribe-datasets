@@ -1,0 +1,10 @@
+---
+scene_id: julius-caesar-a2-s3
+title: "A street near the Capitol"
+chapter: act-ii
+characters_present: [artemidorus]
+---
+
+## Scene
+
+**Artemidorus:** _“Caesar, beware of Brutus; take heed of Cassius; come not near Casca; have an eye to Cinna; trust not Trebonius; mark well Metellus Cimber; Decius Brutus loves thee not; thou hast wrong’d Caius Ligarius. There is but one mind in all these men, and it is bent against Caesar. If thou be’st not immortal, look about you: security gives way to conspiracy. The mighty gods defend thee! Thy lover, Artemidorus.”_ Here will I stand till Caesar pass along, And as a suitor will I give him this. My heart laments that virtue cannot live Out of the teeth of emulation. If thou read this, O Caesar, thou mayest live; If not, the Fates with traitors do contrive.

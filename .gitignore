@@ -1,0 +1,25 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Local SQLite scratch / ingest output
+*.db
+*.sqlite
+
+# Copyrighted corpora must never be committed here — they are generated locally
+# by game-story-extractor web sources (e.g. Game of Thrones). Keep any such
+# fetched output out of this public repo.
+got/
+got-nvs/
+office/
+the-office/
+cornell/
+cornell-nvs/

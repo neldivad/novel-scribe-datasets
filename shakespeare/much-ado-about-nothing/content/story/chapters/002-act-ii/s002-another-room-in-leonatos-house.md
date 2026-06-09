@@ -1,0 +1,26 @@
+---
+scene_id: much-ado-about-nothing-a2-s2
+title: "Another room in Leonato’s house"
+chapter: act-ii
+characters_present: [don-john, borachio]
+---
+
+## Scene
+
+**Don John:** It is so; the Count Claudio shall marry the daughter of Leonato.
+**Borachio:** Yea, my lord; but I can cross it.
+**Don John:** Any bar, any cross, any impediment will be medicinable to me: I am sick in displeasure to him, and whatsoever comes athwart his affection ranges evenly with mine. How canst thou cross this marriage?
+**Borachio:** Not honestly, my lord; but so covertly that no dishonesty shall appear in me.
+**Don John:** Show me briefly how.
+**Borachio:** I think I told your lordship, a year since, how much I am in the favour of Margaret, the waiting gentlewoman to Hero.
+**Don John:** I remember.
+**Borachio:** I can, at any unseasonable instant of the night, appoint her to look out at her lady’s chamber window.
+**Don John:** What life is in that, to be the death of this marriage?
+**Borachio:** The poison of that lies in you to temper. Go you to the Prince your brother; spare not to tell him, that he hath wronged his honour in marrying the renowned Claudio,—whose estimation do you mightily hold up,—to a contaminated stale, such a one as Hero.
+**Don John:** What proof shall I make of that?
+**Borachio:** Proof enough to misuse the Prince, to vex Claudio, to undo Hero, and kill Leonato. Look you for any other issue?
+**Don John:** Only to despite them, I will endeavour anything.
+**Borachio:** Go then; find me a meet hour to draw Don Pedro and the Count Claudio alone: tell them that you know that Hero loves me; intend a kind of zeal both to the Prince and Claudio, as—in love of your brother’s honour, who hath made this match, and his friend’s reputation, who is thus like to be cozened with the semblance of a maid,—that you have discovered thus. They will scarcely believe this without trial: offer them instances, which shall bear no less likelihood than to see me at her chamber window, hear me call Margaret Hero, hear Margaret term me Claudio; and bring them to see this the very night before the intended wedding: for in the meantime I will so fashion the matter that Hero shall be absent; and there shall appear such seeming truth of Hero’s disloyalty, that jealousy shall be called assurance, and all the preparation overthrown.
+**Don John:** Grow this to what adverse issue it can, I will put it in practice. Be cunning in the working this, and thy fee is a thousand ducats.
+**Borachio:** Be you constant in the accusation, and my cunning shall not shame me.
+**Don John:** I will presently go learn their day of marriage.
