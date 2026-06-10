@@ -1,6 +1,7 @@
 ---
 id: ann-jee-nier
 name: Ms Ann Jee Nier
+aliases: ["Ann Jee Nier"]
 role: protagonist
 status: active
 voice:

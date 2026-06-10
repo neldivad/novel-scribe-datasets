@@ -1,6 +1,7 @@
 ---
 id: hugh-arr
 name: Mr Hugh Arr
+aliases: ["Hugh Arr"]
 role: supporting
 status: active
 voice:

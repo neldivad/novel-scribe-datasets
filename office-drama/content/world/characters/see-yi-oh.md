@@ -1,6 +1,7 @@
 ---
 id: see-yi-oh
 name: Mr See Yi Oh
+aliases: ["See Yi Oh"]
 role: antagonist
 status: active
 voice:

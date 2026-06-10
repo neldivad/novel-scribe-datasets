@@ -1,6 +1,7 @@
 ---
 id: opus
 name: Opus
+aliases: ["Opus (thinking)"]
 role: supporting
 status: active
 voice:

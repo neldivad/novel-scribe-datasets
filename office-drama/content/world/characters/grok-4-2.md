@@ -1,6 +1,7 @@
 ---
 id: grok-4-2
 name: Grok-4.2
+aliases: ["Grok-4.2 (thinking)"]
 role: supporting
 status: active
 voice:

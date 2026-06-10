@@ -1,6 +1,7 @@
 ---
 id: mark-eting
 name: Mr Mark Eting
+aliases: ["Mark Eting"]
 role: supporting
 status: active
 voice:

@@ -1,6 +1,7 @@
 ---
 id: mae-nij-er
 name: Mr Mae Nij Er
+aliases: ["Mae Nij Er"]
 role: protagonist
 status: active
 voice:

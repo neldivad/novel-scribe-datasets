@@ -1,6 +1,7 @@
 ---
 id: gpt-6-7
 name: GPT-6.7
+aliases: ["GPT-6.7 (thinking)"]
 role: supporting
 status: active
 voice:

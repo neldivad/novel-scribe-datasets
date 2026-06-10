@@ -1,6 +1,7 @@
 ---
 id: in-tern
 name: Mr In Tern
+aliases: ["In Tern"]
 role: supporting
 status: active
 voice:

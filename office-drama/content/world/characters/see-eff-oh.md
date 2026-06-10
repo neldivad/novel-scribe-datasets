@@ -1,6 +1,7 @@
 ---
 id: see-eff-oh
 name: Ms See Eff Oh
+aliases: ["See Eff Oh"]
 role: antagonist
 status: active
 voice:
